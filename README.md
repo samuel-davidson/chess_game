@@ -1,2 +1,2 @@
 # chess_game
-Chess Gamne
+Chess Game
